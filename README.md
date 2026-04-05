@@ -1,14 +1,22 @@
-A real-time monitoring tool for Art of War 3 that tracks and displays the starting times for various battle modes and competitive events.
+# 📡 AOW3 RADAR
+> **Real-time tactical monitoring for Art of War 3.**
 
-Features
-Real-Time Tracking: Get up-to-the-minute countdowns and start times for active and upcoming matches.
+Stay ahead of the competition with live tracking of every major battle mode. Never miss a deployment window again.
 
-Multi-Mode Support:
+---
 
-1v1, 2v2, & 3v3: Monitor standard competitive brackets.
+### ⚡ Core Features
 
-Tournaments: Track major scheduled tournament start times.
+*   **⏱️ Real-Time Countdowns** – Precise, up-to-the-minute starting times for all active and upcoming matches.
+*   **🔄 Auto-Sync** – Live updates ensure your data is always current without manual refreshing.
+*   **📊 Comprehensive Coverage** – All competitive brackets tracked in one unified dashboard.
 
-Blitz Tournaments: Dedicated tracking for fast-paced Blitz events.
+### 🎮 Supported Game Modes
 
-Live Updates: Automatic refreshing to ensure you never miss a deployment window.
+| Mode | Coverage |
+| :--- | :--- |
+| **Standard Brackets** | Live tracking for **1v1**, **2v2**, and **3v3** matches. |
+| **Tournaments** | Full schedule monitoring for major seasonal events. |
+| **Blitz** | Dedicated high-priority alerts for fast-paced Blitz tournaments. |
+
+---
